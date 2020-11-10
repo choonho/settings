@@ -1,0 +1,3 @@
+For tmux download
+
+wget https://raw.githubusercontent.com/choonho/config/master/.tmux.conf
